@@ -1,0 +1,1 @@
+Entendimento de endpoints e criação de api
