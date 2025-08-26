@@ -1,1 +1,1 @@
-Aula de Git, com criação de eventos
+Aula de Git
