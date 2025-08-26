@@ -1,1 +1,1 @@
-Entendimento de endpoints e criação de api
+Entendimento de endpoints e criação de api com chatgpt
