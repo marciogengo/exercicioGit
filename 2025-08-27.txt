@@ -1,1 +1,3 @@
 Mostrar o email e perguntar o que é?
+endereco do GIT marcio==> https://github.com/marciogengo/exercicioGit
+endereco do repositorio do Palmeiras-backend ==> https://github.com/eduardogengo/palmeiras-backend
